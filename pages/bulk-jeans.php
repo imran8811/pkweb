@@ -24,57 +24,21 @@
   <div class="main">
     <div class="banner-area">
       <h1>Bulk Jeans</h1>
+      <p>Bulk jeans description</p>
+      <p>Bulk jeans description</p>
+      <p>Bulk jeans description</p>
+      <p>Bulk jeans description</p>
     </div>
-    <div class="page-details">
-      <div class="image-area">
-        <img src="../assets/images/jeans-pants/bulk-jeans.jpg" alt="Bulk Jeans">
-      </div>
-      <div class="clearfix mb-5">
-        <div class="details-area">
-          <strong>Style# 13124</strong>
-          <ul class="details-list">
-            <li>
-              <strong>Fabric:</strong>
-              <span>100% Cotton 2% Spandex Denim</span>
-            </li>
-            <li>
-              <strong>Fabric Weight:</strong>
-              <span>10.5 Oz</span>
-            </li>
-            <li>
-              <strong>Wash Type:</strong>
-              <span>Enzyme Wash, Destroyed, Spray</span>
-            </li>
-            <li>
-              <strong>Colors:</strong>
-              <span>Sky Blue</span>
-            </li>
-            <li>
-              <strong>Sizes:</strong>
-              <span>30, 32, 34, 36, 38</span>
-            </li>
-            <li>
-              <strong>Shipping:</strong>
-              <span>Air, Sea</span>
-            </li>
-            <li>
-              <strong>Delivery:</strong>
-              <span>30 days</span>
-            </li>
-            <li>
-              <strong>Min Quantity:</strong>
-              <span>200 pcs</span>
-            </li>
-            <li>
-              <strong>FOB Price:</strong>
-              <span>5.5 US Dollar</span>
-            </li>
-          </ul>
-          <div class="btn-back-wrap">
-            <a href="../men/jeans-pants" class="btn-back">Back</a>
-          </div>
-        </div>
-      </div>
+    <div class="product-list">
+      <ul>
+        <li>
+          <img src="" alt="bulk jeans" />
+        </li>
+      </ul>
+    </div>
+    <?php include_once('../shared/rating-reviews.php'); ?>
+    <?php include_once('../shared/faqs.php'); ?>
+    <div class="page-down-content">
       <p class="mb-25">denim jeans have seen a rapid evolution over the years. Today, the denim offers a luxury feel and still costs quite less. Every other person these days wear jeans. Being rough and tough, jeans are very practical to wear for our regular casual days. At the same time, jeans are also beautiful to look at and comfortable to wear. This makes jeans also practical to wear for special venues. </p>
       <p class="mb-25">Even for fashion events and civic gatherings, jeans make perfect apparels. The clothing industry is expanding over time, and so is the jeans industry. Jeans take a considerable portion of the clothing and apparel industry.</p>
       <h2 class="mb-10">Outstanding Variety</h2>
@@ -85,9 +49,10 @@
       <p class="mb-25">A large number of suppliers provide jeans for the markets. This is the reason for the availability of such a wide variety. Choose your supplier wisely to ensure unprecedented quality. Quality ensures response in the markets. PK Apparels, in Pakistan, offers bulk jeans with consistent supreme quality. To order jeans from them online, please use their website.</p>
     </div>
   </div><!-- end of main -->
+  <?php include_once('../keywords.php'); ?>
   <?php include_once('../footer.php'); ?>
 </div> <!-- end of wrapper -->
-<script type="text/javascript" src="../assets/js/jquery-3.5.1.min.js"></script>
-<script type="text/javascript" src="../assets/js/custom.js"></script>
+<script type="text/javascript" src=".../assets/js/jquery-3.5.1.min.js"></script>
+<script type="text/javascript" src=".../assets/js/custom.js"></script>
 </body>
 </html>

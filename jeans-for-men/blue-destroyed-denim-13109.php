@@ -75,7 +75,7 @@
               </li>
             </ul>
             <div class="btn-back-wrap">
-              <a href="https://wa.me/923000911000?text=Style%2313140%0AEnter%20inquiry%20details" class="btn-back">Buy Now</a>
+              <a href="https://wa.me/923000911000?text=Style%2313109%0AEnter%20inquiry%20details" class="btn-back">Buy Now</a>
             </div>
           </div>
         </div>

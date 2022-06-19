@@ -24,14 +24,14 @@
     <div class="main">
         <div class="page-details">
           <div class="image-area">
-            <img src="../assets/images/jeans-for-men/men-denim-black-pant-13100.jpg" alt="men-denim-black-pant-13100">
+            <img src="../assets/images/jeans-for-men/sky-blue-fashion-pant-13101.jpg" alt="sky-blue-fashion-pant-13101">
           </div>
           <div class="details-area">
-            <strong>Article# 13100</strong>
+            <strong>Article# 13101</strong>
             <ul class="details-list">
               <li>
                 <strong>Article Type:</strong>
-                <span>Mens Patched Straight Fit Jeans</span>
+                <span>Men Fashion Jeans</span>
               </li>
               <li>
                 <strong>Fabric:</strong>
@@ -75,7 +75,7 @@
               </li>
             </ul>
             <div class="btn-back-wrap">
-              <a href="https://wa.me/923000911000?text=Style%2313140%0AEnter%20inquiry%20details" class="btn-back">Buy Now</a>
+              <a href="https://wa.me/923000911000?text=Style%2313101%0AEnter%20inquiry%20details" class="btn-back">Buy Now</a>
             </div>
           </div>
         </div>

@@ -24,14 +24,14 @@
     <div class="main">
         <div class="page-details">
           <div class="image-area">
-            <img src="../assets/images/jeans-for-men/men-denim-black-pant-13100.jpg" alt="men-denim-black-pant-13100">
+            <img src="../assets/images/jeans-for-men/blue-fashion-jeans-13110.jpg" alt="blue-fashion-jeans-13110">
           </div>
           <div class="details-area">
-            <strong>Article# 13100</strong>
+            <strong>Article# 13110</strong>
             <ul class="details-list">
               <li>
                 <strong>Article Type:</strong>
-                <span>Mens Patched Straight Fit Jeans</span>
+                <span>Blue Fashion Jeans</span>
               </li>
               <li>
                 <strong>Fabric:</strong>

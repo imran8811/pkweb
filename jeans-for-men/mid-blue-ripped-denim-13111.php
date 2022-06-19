@@ -24,14 +24,14 @@
     <div class="main">
         <div class="page-details">
           <div class="image-area">
-            <img src="../assets/images/jeans-for-men/navy-blue-pant-13103.jpg" alt="navy-blue-pant-13103">
+            <img src="../assets/images/jeans-for-men/mid-blue-ripped-denim-13111.jpg" alt="mid-blue-ripped-denim-13111">
           </div>
           <div class="details-area">
-            <strong>Article# 13103</strong>
+            <strong>Article# 1311</strong>
             <ul class="details-list">
               <li>
                 <strong>Article Type:</strong>
-                <span>Mens Navy Blue Slim Fit Jeans</span>
+                <span>Mid Blue Ripped Jeans</span>
               </li>
               <li>
                 <strong>Fabric:</strong>
@@ -47,7 +47,7 @@
               </li>
               <li>
                 <strong>Color:</strong>
-                <span>Navy Blue</span>
+                <span>Mid Blue</span>
               </li>
               <li>
                 <strong>Waist Sizes:</strong>
@@ -67,7 +67,7 @@
               </li>
               <li>
                 <strong>FOB Price:</strong>
-                <span>5 US Dollar</span>
+                <span>6 US Dollar</span>
               </li>
               <li>
                 <strong>Payment Terms:</strong>
@@ -75,7 +75,7 @@
               </li>
             </ul>
             <div class="btn-back-wrap">
-              <a href="https://wa.me/923000911000?text=Style%2313103%0AEnter%20inquiry%20details" class="btn-back">Buy Now</a>
+              <a href="https://wa.me/923000911000?text=Style%2313111%0AEnter%20inquiry%20details" class="btn-back">Buy Now</a>
             </div>
           </div>
         </div>

@@ -7,8 +7,8 @@
   <meta name="description" content="PK Apparel Specializes in jeans pants manufacturing and wholesale, jeans Jackets wholesale, Jeans Shirt and all other denim products. We stand behind all of the products that we handle and we are the company that stand behind the quality and performance of the products they build"/>
   <meta name="google-site-verification" content="tq6NZzCuCj2a7kvdssFcuBKb8z0BdAjdUhS4e_IuiNY" />
   <title>Buy Jeans in Bulk</title>
-  <link rel="icon" href="../assets/images/favicon.png" type="image/png">
-  <link type="text/css" rel="stylesheet" href="../assets/css/style.css">
+  <link rel="icon" href="./assets/images/favicon.png" type="image/png">
+  <link type="text/css" rel="stylesheet" href="./assets/css/style.css">
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-TTX4WPE230"></script>
   <script>
@@ -20,11 +20,11 @@
 </head>
 <body>
 <div class="wrapper">
-    <?php include_once('../header-menu.php'); ?>
+    <?php include_once('./header-menu.php'); ?>
     <div class="main">
         <div class="page-details">
             <div class="image-area">
-                <img src="../assets/images/jeans-pants/buy-jeans-in-bulk.jpg" alt="buy-jeans-in-bulk">
+                <img src="./assets/images/jeans-pants/buy-jeans-in-bulk.jpg" alt="buy-jeans-in-bulk">
             </div>
             <div class="details-area">
                 <strong>Style# 13136</strong>
@@ -67,14 +67,12 @@
                     </li>
                 </ul>
                 <div class="btn-back-wrap">
-                    <a href="../men/jeans-pants" class="btn-back">Back</a>
+                    <a href="./men/jeans-pants" class="btn-back">Back</a>
                 </div>
             </div>
         </div>
     </div><!-- end of main -->
-    <?php include_once('../footer.php'); ?>
+    <?php include_once('./footer.php'); ?>
 </div> <!-- end of wrapper -->
-<script type="text/javascript" src="../assets/js/jquery-3.5.1.min.js"></script>
-<script type="text/javascript" src="../assets/js/custom.js"></script>
 </body>
 </html>

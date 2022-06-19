@@ -24,14 +24,14 @@
     <div class="main">
         <div class="page-details">
           <div class="image-area">
-            <img src="../assets/images/jeans-for-men/men-denim-black-pant-13100.jpg" alt="men-denim-black-pant-13100">
+            <img src="../assets/images/jeans-for-men/mid-blue-full-whiskered-jeans-13107.jpg" alt="mid-blue-full-whiskered-jeans-13107">
           </div>
           <div class="details-area">
-            <strong>Article# 13100</strong>
+            <strong>Article# 13107</strong>
             <ul class="details-list">
               <li>
                 <strong>Article Type:</strong>
-                <span>Mens Patched Straight Fit Jeans</span>
+                <span>Mid Blue Whiskered</span>
               </li>
               <li>
                 <strong>Fabric:</strong>
@@ -67,7 +67,7 @@
               </li>
               <li>
                 <strong>FOB Price:</strong>
-                <span>6 US Dollar</span>
+                <span>5 US Dollar</span>
               </li>
               <li>
                 <strong>Payment Terms:</strong>
